@@ -6,7 +6,7 @@ The Data used is the subset 'FD001'.
 
 ## Current Progress
 - ✅ Data Cleaning and Visualization completed
-- 🔜 Regression Models
+- ✅ Regression Models
 - 🔜 Classification Models
 - 🔜 Dashboard (Streamlit)
 
